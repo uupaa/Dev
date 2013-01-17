@@ -1,0 +1,34 @@
+{
+  "list": {
+    "3000x2008_0": {
+      "url": "asset/image/3000x2008_0.jpg",
+      "hash": "f4c6d073d91b9ad8b5d6a0019274063e",
+      "type": "image/jpeg"
+    },
+    "3000x2008_1": {
+      "url": "asset/image/3000x2008_1.jpg",
+      "hash": "f4c6d073d91b9ad8b5d6a0019274063e",
+      "type": "image/jpeg"
+    },
+    "big": {
+      "url": "asset/scene/big.html",
+      "bind": "BigClass",
+      "hash": "91ea67cc3a43619b05440a2d046af32f",
+      "type": "scene/html"
+    },
+    "BigClass": {
+      "url": "asset/scene/BigClass.js",
+      "hash": "06413a1bbdcdce7561955627f49f66b4",
+      "type": "scene/class"
+    }
+  },
+  "relation": {
+    "big": {
+      "css": [],
+      "image": []
+    }
+  },
+  "tree": {
+    "big": {}
+  }
+}
